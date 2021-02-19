@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DPI </string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_collage1">The  Government of Purbo Bangla Established 16(sixteen) Polytechnic institutes in each district of Purbo Bangla. Dinajpur polytechnic institute at south Balubari was one of them which is in a pleasant environment adorned with numerous plants, open and free from noise. Currently 49 polytechnic institutes have been established.  This polytechnic was started with Civil and Power Technology in 1964. Later on Mechanical Technology in 1968, Electrical Technology in 1986, Computer Technology and Architecture and Interior design Technology in 2004 was started in this polytechnic institute. There are academic buildings, Workshop/Laboratory and the best educational facilities in this large institution of 21.4 acres of land. There are 240 students in the two Boy’s hostels and 100 students in a Girls hostel. They are getting all types of residential facilities by the side of study. There is a residential building in the campus for teachers and staffs. There are a commodious library enriched with 35658 books for earning knowledge, a mosque next to the entrance of the institution, a large auditorium for cultural studies and a large playground.
+
+Notice Board
+ </string>
+
+    <string name="about_collage">DINAJPUR Polytechnic Institute the largest and reputed Government Polytechnic institute in Bangladesh which was Established in 1964. This Polytechnic has controlled by the Government of Bangladesh and under the Bangladesh Technical Education Board (BTEB).
+
+DINAJPUR Polytechnic Institute is One of the Biggest Polytechnic Institute in Bangladesh. there are Three hostels two for boys and One for girls. A big play ground and also has facilities for indoor games. DINAJPUR Polytechnic Institute (DPI) provide 4 years Diploma in Engineering Course under the (BTEB) as maintaining International Standard.</string>
+
+
+    <string name="autolink_text">Name: Md Al-Amin Islam Sakib \nEmail: alaminsakib.cse@gmail.com \nPhone: +8801762868864 \nWebsite: http://msainfo.cf
+
+    </string>
+
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+
+</resources>
